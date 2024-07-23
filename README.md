@@ -1,6 +1,7 @@
 # Water-Data-Project
-Dig-Deep project to visualize and process water quality data in the US
-Project and the below description produced in collaboration with Dr. Gasteyer. All coding for the project is my sole authorship. 
+Dig-Deep project to visualize and process water quality data in the US.
+
+**Project and the below description produced in collaboration with Dr. Gasteyer. All coding for the project is my sole authorship. **
 
 
 Data for to be collected for the United States Water and Sanitation Hygiene Dashboard 
